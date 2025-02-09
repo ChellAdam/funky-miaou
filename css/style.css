@@ -1,0 +1,21 @@
+body {
+    background-image: url('wallpaper.png');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+
+#myCanvas {
+    border: 1px solid black;
+    background-color: rgba(243, 166, 220, 0.8);
+}
+
+.niveau1 {
+    background-image: url('wallpaper.png');
+}
+
+.niveau5 {
+    background-image: url('end.png');
+    background-color: rgba(195, 147, 189, 0.25);
+}
