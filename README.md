@@ -26,7 +26,7 @@ Pour le moment uniquement jouable avec un clavier. Les contrôles vous seront in
 ← : Permet d'aller vers la gauche 
 N : Permet de passer directement au niveau suivant (Pratique pour les moins téméraires qui n'auront pas la patience de rester bloqué sur un seul et même niveau)
 
-### Points d'améliorations possibles pour les prochaine MàJ
+### Points d'améliorations possibles pour les prochaines MàJ
 
 - Ajout d'une barre de santé
 - Ajout de nombreux niveaux supplémentaires
